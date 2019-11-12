@@ -1,0 +1,11 @@
+D:\C#\ThucHanh\TimKiemHanghoa\TimKiemHanghoa\obj\Debug\TimKiemHanghoa.csprojAssemblyReference.cache
+D:\C#\ThucHanh\TimKiemHanghoa\TimKiemHanghoa\obj\Debug\TimKiemHanghoa.Form1.resources
+D:\C#\ThucHanh\TimKiemHanghoa\TimKiemHanghoa\obj\Debug\TimKiemHanghoa.Properties.Resources.resources
+D:\C#\ThucHanh\TimKiemHanghoa\TimKiemHanghoa\obj\Debug\TimKiemHanghoa.csproj.GenerateResource.cache
+D:\C#\ThucHanh\TimKiemHanghoa\TimKiemHanghoa\obj\Debug\TimKiemHanghoa.csproj.CoreCompileInputs.cache
+D:\C#\ThucHanh\TimKiemHanghoa\TimKiemHanghoa\bin\Debug\TimKiemHanghoa.exe.config
+D:\C#\ThucHanh\TimKiemHanghoa\TimKiemHanghoa\bin\Debug\TimKiemHanghoa.exe
+D:\C#\ThucHanh\TimKiemHanghoa\TimKiemHanghoa\bin\Debug\TimKiemHanghoa.pdb
+D:\C#\ThucHanh\TimKiemHanghoa\TimKiemHanghoa\obj\Debug\TimKiemHanghoa.exe
+D:\C#\ThucHanh\TimKiemHanghoa\TimKiemHanghoa\obj\Debug\TimKiemHanghoa.pdb
+D:\C#\ThucHanh\TimKiemHanghoa\TimKiemHanghoa\obj\Debug\TimKiemHanghoa.csproj.ResolveComReference.cache
